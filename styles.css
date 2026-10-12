@@ -71,9 +71,8 @@ display: flex;
 }
 
 .hero-content {
-  margin: 0;
-  font-size: 46px;
-  text-transform: uppercase;
+   text-align: center;
+   padding: 80px 0;
 }
 
 .hero h1 {
