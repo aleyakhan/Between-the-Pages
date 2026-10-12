@@ -71,13 +71,12 @@ display: flex;
 }
 
 .hero-content {
- margin: 0;
+  margin: 0;
   font-size: 46px;
   text-transform: uppercase;
 }
 
 .hero h1 {
-  margin: 0;
   font-size: 46px;
   text-transform: uppercase;
   line-height: 1.2;
@@ -91,11 +90,6 @@ display: flex;
   line-height: 1.5;
   margin-bottom: 24px;
 }
-
-
-
-
-
 
 /* ===== Buttons ===== */
 .btn {
